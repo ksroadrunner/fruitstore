@@ -1,0 +1,14 @@
+C:\Users\CR\source\repos\FruitStore\FruitStore.Business\bin\Debug\netcoreapp3.1\FruitStore.Entity.dll
+C:\Users\CR\source\repos\FruitStore\FruitStore.Business\obj\Debug\netcoreapp3.1\FruitStore.Business.csprojAssemblyReference.cache
+C:\Users\CR\source\repos\FruitStore\FruitStore.Business\obj\Debug\netcoreapp3.1\FruitStore.Business.AssemblyInfoInputs.cache
+C:\Users\CR\source\repos\FruitStore\FruitStore.Business\obj\Debug\netcoreapp3.1\FruitStore.Business.AssemblyInfo.cs
+C:\Users\CR\source\repos\FruitStore\FruitStore.Business\bin\Debug\netcoreapp3.1\FruitStore.Business.deps.json
+C:\Users\CR\source\repos\FruitStore\FruitStore.Business\bin\Debug\netcoreapp3.1\FruitStore.Business.dll
+C:\Users\CR\source\repos\FruitStore\FruitStore.Business\bin\Debug\netcoreapp3.1\FruitStore.Business.pdb
+C:\Users\CR\source\repos\FruitStore\FruitStore.Business\bin\Debug\netcoreapp3.1\FruitStore.Entity.pdb
+C:\Users\CR\source\repos\FruitStore\FruitStore.Business\obj\Debug\netcoreapp3.1\FruitStore.Business.csproj.CoreCompileInputs.cache
+C:\Users\CR\source\repos\FruitStore\FruitStore.Business\obj\Debug\netcoreapp3.1\FruitStore.Business.csproj.CopyComplete
+C:\Users\CR\source\repos\FruitStore\FruitStore.Business\obj\Debug\netcoreapp3.1\FruitStore.Business.dll
+C:\Users\CR\source\repos\FruitStore\FruitStore.Business\obj\Debug\netcoreapp3.1\FruitStore.Business.pdb
+C:\Users\CR\source\repos\FruitStore\FruitStore.Business\bin\Debug\netcoreapp3.1\FruitStore.DataAccess.dll
+C:\Users\CR\source\repos\FruitStore\FruitStore.Business\bin\Debug\netcoreapp3.1\FruitStore.DataAccess.pdb

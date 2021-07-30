@@ -1,0 +1,9 @@
+C:\Users\CR\source\repos\FruitStore\FruitStore.Entity\bin\Debug\netcoreapp3.1\FruitStore.Entity.deps.json
+C:\Users\CR\source\repos\FruitStore\FruitStore.Entity\bin\Debug\netcoreapp3.1\FruitStore.Entity.dll
+C:\Users\CR\source\repos\FruitStore\FruitStore.Entity\bin\Debug\netcoreapp3.1\FruitStore.Entity.pdb
+C:\Users\CR\source\repos\FruitStore\FruitStore.Entity\obj\Debug\netcoreapp3.1\FruitStore.Entity.csprojAssemblyReference.cache
+C:\Users\CR\source\repos\FruitStore\FruitStore.Entity\obj\Debug\netcoreapp3.1\FruitStore.Entity.AssemblyInfoInputs.cache
+C:\Users\CR\source\repos\FruitStore\FruitStore.Entity\obj\Debug\netcoreapp3.1\FruitStore.Entity.AssemblyInfo.cs
+C:\Users\CR\source\repos\FruitStore\FruitStore.Entity\obj\Debug\netcoreapp3.1\FruitStore.Entity.csproj.CoreCompileInputs.cache
+C:\Users\CR\source\repos\FruitStore\FruitStore.Entity\obj\Debug\netcoreapp3.1\FruitStore.Entity.dll
+C:\Users\CR\source\repos\FruitStore\FruitStore.Entity\obj\Debug\netcoreapp3.1\FruitStore.Entity.pdb
