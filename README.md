@@ -1,2 +1,2 @@
 # fruitstore
-Caner Sarı Gül - .Net MVC Core eğitimi faz1 
+Caner Sarıgül - .Net MVC Core eğitimi faz1 
